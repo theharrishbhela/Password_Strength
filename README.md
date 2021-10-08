@@ -1,7 +1,7 @@
 # Password_Strength
 UserName and Password Strength Validation Checker Python
 
-This code presents a validation strength checkers for usernames and Passwords in python every strong username/password should include the following:
+This code presents a validation strength checker for usernames and Passwords in python every strong username/password should include the following:
 
 An uppercase character
 A lowercase character
